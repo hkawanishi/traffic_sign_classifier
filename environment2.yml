@@ -8,3 +8,5 @@ dependencies:
 - scikit-learn
 - pandas
 - menpo::opencv3
+- pip:
+  - tensorflow >= 0.12.0rc1
